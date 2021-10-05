@@ -11,6 +11,8 @@ img.alta {
 
 h1 {
     border-bottom-style: inset;
+    margin: auto;
+    max-width: auto;
 }
 
 .italico {
